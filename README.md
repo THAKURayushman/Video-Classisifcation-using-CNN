@@ -27,8 +27,13 @@ It contains 13,320 videos across 101 action categories.
 
 project-root/
 │
+
 ├── UCF101/ # Original videos (not uploaded to GitHub)
+
 ├── extracted_frames/ # Extracted frames (ignored in .gitignore)
+
 ├── video_classification.ipynb # Main Jupyter Notebook
+
 ├── .gitignore # File to ignore large video/image data
+
 └── README.md # This file
